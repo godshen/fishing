@@ -1,1 +1,5 @@
-my name is go-common
+<?php
+class bilibili
+{
+  return 0;
+}
